@@ -39,7 +39,7 @@ The bus reservation system portal is a web-based application that enables users 
 * Reservation Module
 * Feedback Module
 
-## 🏷️ Tech Stack Used :-
+## 🏷️ Tech Stack Used :
 * Java
 * Spring Framework
 * Spring Boot
