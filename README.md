@@ -50,7 +50,7 @@ The bus reservation system portal is a web-based application that enables users 
 * CSS
 * JavaScript
 
-## Installation & Run
+## Installation & Run :
 
 * Before running the API server, you should update the database config inside the [application.properties](https://github.com/AbhayKumarVishwakarma/few-houses-4121/blob/main/Bus%20Reservation%20System%20Portal/Backend/bus_reservation/src/main/resources/application.properties) file. 
 * Update the port number, username and password as per your local database config.
