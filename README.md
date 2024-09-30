@@ -21,12 +21,12 @@ The bus reservation system portal is a web-based application that enables users 
 
 <br>
 
-## ER Diagrm
+## ER Diagram :
 <img src="https://github.com/AbhayKumarVishwakarma/Safar/blob/main/Bus%20Reservation%20System%20Portal/Frontend/src/images/ERDiagram2.jpg" > </img>
 
 <br>
 
-## Flow Chart
+## Flow Chart :
 <img src='https://github.com/AbhayKumarVishwakarma/Safar/blob/main/Bus%20Reservation%20System%20Portal/Frontend/src/images/safar2.png'></img>
 
 ## Modules :
