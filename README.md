@@ -68,7 +68,7 @@ The bus reservation system portal is a web-based application that enables users 
 
 ```
 
-## API Root Endpoint
+## API Root Endpoint:
 
 `https://localhost:8080/`
  
